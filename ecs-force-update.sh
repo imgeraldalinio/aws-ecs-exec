@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./ecs-update.sh <CLUSTER_NAME> [SERVICE_NAME] [AWS_PROFILE]
+# Usage: ./ecs-force-update.sh <CLUSTER_NAME> [SERVICE_NAME] [AWS_PROFILE]
 
 # Validate input parameters
 if [ $# -lt 1 ]; then
