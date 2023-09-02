@@ -1,6 +1,6 @@
 # AWS ECS Exec Script
 
-![AWS ECS Logo](https://aws.amazon.com/images/powered-by-aws.png)
+![AWS ECS Logo](https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_ecs_logo_icon_168661.png)
 
 ## Introduction
 
