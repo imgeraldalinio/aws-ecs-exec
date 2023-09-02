@@ -13,9 +13,9 @@ This project provides a convenient Bash script for enabling the AWS ECS Exec fea
 To use this script, follow the instructions below:
 
 1. Clone this repository to your local environment and execute the script (`./ecs-exec-config-checker.sh`) to ensure that you meet the ECS Exec requirements.
-2. To run the ECS Exec checker, use the following command:
+2. To run the ECS Exec config checker, use the following command:
     ```
-    ./check-ecs-exec.sh <CLUSTER_NAME> [TASK ID]
+    ./ecs-exec-config-checker.sh <CLUSTER_NAME> [TASK ID]
     ```
    Ensure that you have the AWS Command Line Interface (CLI) installed and configured with the appropriate AWS IAM credentials.
 3. Ensure you have the AWS Command Line Interface (CLI) installed and configured with the appropriate AWS IAM credentials.
